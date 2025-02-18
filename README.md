@@ -1,16 +1,15 @@
-## Hi there 👋
+<table>
+    <tr>
+        <td colspan="2"><a href="https://dinpixels.neocities.org" target="_blank"><img src="./src/img/preview_halloween_theme.png" alt="preview_halloween_theme.png"></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://dinpixels.neocities.org" target="_blank"><img src="./src/img/preview_xp_theme.png" alt="preview_xp_theme.png"></a></td>
+        <td><a href="https://dinpixels.neocities.org" target="_blank"><img src="./src/img/preview_sakura_theme.png" alt="preview_sakura_theme.png"></a></td>
+    </tr>
+</table>
 
-<!--
-**DinPX/DinPX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, call me the Anti-Rizzler 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 This is a text
+- 🌱 Woah. Another text
+- 😄 Calm down, there's enough room for more texts
