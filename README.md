@@ -8,8 +8,16 @@
     </tr>
 </table>
 
-## Hi there, call me the Anti-Rizzler 👋
-
-- 🔭 This is a text
-- 🌱 Woah. Another text
-- 😄 Calm down, there's enough room for more texts
+```gdscript
+func _get_data() -> Dictionary:
+    return {
+        "name": "Din",
+        "age": Status.Undefined,
+        "hobby": ["art", "coding", "games"],
+        "skill": [
+            "art": ["digital", "pixel art", "3d model"],
+            "coding": ["GDScript, "JS", "C++"],
+            "games": ["platformer", "puzzle"]
+        ],
+    }
+```
